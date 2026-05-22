@@ -7,9 +7,9 @@
         <group id="s1">
           <trans-unit id="2" translate="yes" source-term="Azure Virtual Machines">
             <source>This article contains important reference material you need when you
-                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition</source>
+                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition :)</source>
             <target state="final">This article contains important reference material you need when you
-                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition</target>
+                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition :)</target>
           </trans-unit>
         </group>
       </group>
